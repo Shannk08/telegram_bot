@@ -10,5 +10,8 @@ It requires the following three input files,
 
 ## Usage
 
-The following command should be run from cmd window to start the file
-python .\telegram_bot.py --configJson ./inputs/config.json
+The following command should be run from cmd window to start the file, you will see a pop-up from which you can select the inputs and click on 'Send to all Groups' to send the text to all groups.
+
+>> python .\telegram_bot.py --configJson ./inputs/config.json
+
+![image](https://user-images.githubusercontent.com/103746573/209579170-7519e2ea-ca8e-408d-8995-d64a5f6c1117.png)
