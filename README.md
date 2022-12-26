@@ -11,4 +11,4 @@ It requires the following three input files,
 ## Usage
 
 The following command should be run from cmd window to start the file
-python .\telegram_bot.py --configJson ./config.json
+python .\telegram_bot.py --configJson ./inputs/config.json
